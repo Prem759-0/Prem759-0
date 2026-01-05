@@ -14,4 +14,8 @@
   <img alt="github-snake" src="./github-snake%20(1).svg" />
 </picture>
 
+# 💫 About Me:
+👨‍🎓 Currently  I'm  Studying  12th  <br>⏳ 1.5+ years of experience  of make full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work  with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
 
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)) 
