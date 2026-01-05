@@ -15,7 +15,7 @@
 </picture>
 
 # 💫 About Me:
-👨‍🎓 Currently  I'm  Studying  12th  <br>⏳ 1.5+ years of experience  of make full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work  with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
+👨‍🎓 Currently  I'm  Studying  12th  <br>⏳ 1.5+ years of experience  of makeing full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work  with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
 
 
 ## 🌐 Connect With Me
