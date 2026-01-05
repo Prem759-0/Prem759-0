@@ -2,6 +2,9 @@
 
 <!--
 **Prem759-0/Prem759-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 Here are some ideas to get you started:
 
