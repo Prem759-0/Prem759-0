@@ -1,6 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, <a href="https://www.abhijitzende.com/">I'm Prem Gaikwad  👨‍💻</a></h1>
 
-**Prem759-0/Prem759-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
@@ -9,3 +9,4 @@
 </picture>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Currently++I'm++Studying++12th++%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
