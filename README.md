@@ -22,7 +22,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)
 [![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91XXXXXXXXXX-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+91 9619111051)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
+
 
 
 # 💻 Tech Stack:
