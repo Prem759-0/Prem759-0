@@ -17,7 +17,38 @@
 # 💫 About Me: <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 👨‍🎓 Currently I'm Studying 12th <br>⏳ 1.5+ years of experience of makeing full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
 
+ <h2>
+    📊 Profile Stats
+    <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+  </h2>
 
+  <table align="center">
+    <tr>
+      <td><b>👀 Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=mwakidenis&style=flat-square" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/followers/mwakidenis?style=social" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/mwakidenis?style=social" />
+      </td>
+      <td>
+        <img src="https://awesome.re/badge.svg" />
+      </td>
+    </tr>
+  </table>
+  
 ## 🌐 Connect With Me <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
