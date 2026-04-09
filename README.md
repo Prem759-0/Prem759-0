@@ -30,7 +30,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html5,css,js,react,nextjs,tailwind,vite,ts)](#)
 
 ### 🔐 Authentication
-<img src="https://skillicons.dev/icons?i=clerk" />
+  <img src="https://img.shields.io/badge/Clerk-Authentication-black?style=for-the-badge&logo=clerk&logoColor=white" />
 
 ### 🗄️ Databases & Backend Services
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
