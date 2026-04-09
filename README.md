@@ -30,24 +30,16 @@
 [![Frontend](https://skillicons.dev/icons?i=html5,css,js,react,nextjs,tailwind,vite,ts)](#)
 
 ### 🔐 Authentication
-![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=clerk" />
 
 ### 🗄️ Databases & Backend Services
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=postgresql&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 
 ### ☁️ Hosting & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+ <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 ### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+ <img src="https://skillicons.dev/icons?i=git,github,docker,postman,windows" />
 
 ---
 
