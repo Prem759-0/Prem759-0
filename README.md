@@ -55,7 +55,7 @@
     🖥️ Github Activity
     <img
       height="40"
-      alt="Mwaki Denis"
+      alt="Prem759-0"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
   </h2>
