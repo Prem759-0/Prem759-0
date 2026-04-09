@@ -27,19 +27,30 @@
 
 
 # 💻 Tech Stack:
-[![Frontend](https://skillicons.dev/icons?i=html5,css,js,react,nextjs,tailwind,vite,ts)](#)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html5,css,js,react,nextjs,tailwind,vite,ts" />
+</p>
 
 ### 🔐 Authentication
+<p align="center">
   <img src="https://img.shields.io/badge/Clerk-Authentication-black?style=for-the-badge&logo=clerk&logoColor=white" />
+</p>
 
 ### 🗄️ Databases & Backend Services
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+</p>
 
 ### ☁️ Hosting & Deployment
- <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
 
 ### 🧰 Tools & DevOps
- <img src="https://skillicons.dev/icons?i=git,github,docker,postman,windows" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,windows" />
+</p>
 
 ---
 
