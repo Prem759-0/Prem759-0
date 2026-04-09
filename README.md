@@ -27,7 +27,7 @@
 
 
 # 💻 Tech Stack:
-[![Frontend](https://skillicons.dev/icons?1=html5,css,js,react,nextjs,tailwind,vite,ts,next)](#)
+[![Frontend](https://skillicons.dev/icons?i=html5,css,js,react,nextjs,tailwind,vite,ts)](#)
 
 ### 🔐 Authentication
 ![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
