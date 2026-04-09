@@ -27,7 +27,6 @@
 
 
 # 💻 Tech Stack:
-### 🚀 Frontend
 [![Frontend](https://skillicons.dev/icons?1=html5,css,js,react,nextjs,tailwind,vite,ts,next)](#)
 
 ### 🔐 Authentication
