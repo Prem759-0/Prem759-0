@@ -86,6 +86,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C&fontSize=40&fontColor=auto" />
 </p>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prem759-0&theme=onedark&no-frame=true&v=123" />
