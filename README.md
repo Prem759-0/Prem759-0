@@ -84,5 +84,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C" />
 </p>
