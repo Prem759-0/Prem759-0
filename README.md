@@ -1,34 +1,21 @@
-<h1 align="center">Hey 👋, <a href="https://www.abhijitzende.com/">I'm Prem Gaikwad  👨‍💻</a></h1>
+<h1 align="center">Hey 👋, <a href="https://www.abhijitzende.com/">I'm Prem Gaikwad 👨‍💻</a></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Full+Stack+Web+Developer+;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Currently++I'm++Studying++12th++" alt="Typing SVG" />
-  </a>
-</p> 
-
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
-    width="100%" 
-    style="max-width:100%; height:auto;"
-  />
-</div>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"  width="100%" 
-    style="max-width:100%; height:auto;/></p>
-
-
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Full+Stack+Web+Developer+;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Currently++I'm++Studying++12th++" alt="Typing SVG" />
+</a>
+</p>
 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
-  <img alt="github-snake" src="./github-snake%20(1).svg" />
+<source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+<img alt="github-snake" src="./github-snake%20(1).svg" />
 </picture>
 
-# 💫 About Me: <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-👨‍🎓 Currently  I'm  Studying  12th  <br>⏳ 1.5+ years of experience  of makeing full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work  with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
+# 💫 About Me:
+👨‍🎓 Currently I'm Studying 12th <br>⏳ 1.5+ years of experience of makeing full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
 
 
 ## 🌐 Connect With Me
@@ -44,10 +31,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -77,11 +62,11 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem759-0&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem759-0&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prem759-0&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Prem759-0&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -99,5 +84,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C&fontSize=40&fontColor=auto" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C&fontSize=40&fontColor=auto" />
 </p>
