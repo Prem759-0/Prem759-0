@@ -110,13 +110,6 @@
 </div>
 
 
-## 🌐 Connect With Me <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)
-[![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
-
 
 
 # 💻 Tech Stack:
@@ -180,12 +173,17 @@
 </div>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Abhiz2411&icon=0&color=0)](https://visitcount.itsvg.in) -->
+---
+
+## 🌐 Connect With Me <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)
+[![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
 
 
 ---
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C&fontSize=40&fontColor=auto" />
 </p>
