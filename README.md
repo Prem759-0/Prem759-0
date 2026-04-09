@@ -180,6 +180,14 @@
 [![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Prem+Gaikwad+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+full stack apps+clone project's+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+India+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;" />
+</p>
+
+[![Prem's gitartwork](gitartwork.svg)](https://github.com/Prem759-0)
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%9C&fontSize=40&fontColor=auto" />
 </p>
