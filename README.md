@@ -56,6 +56,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem759-0&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prem759-0&theme=tokyonight&hide_border=true" />
+</p>
+
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prem759-0&show_icons=true&theme=tokyonight" 
+  onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prem759-0&show_icons=true&theme=tokyonight'" 
+/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
