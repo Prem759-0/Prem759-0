@@ -35,13 +35,13 @@
     </tr>
     <tr>
       <td>
-        <img src="https://komarev.com/ghpvc/?username=mwakidenis&style=flat-square" />
+        <img src="https://komarev.com/ghpvc/?username=Prem759-0&style=flat-square" />
       </td>
       <td>
-        <img src="https://img.shields.io/github/followers/mwakidenis?style=social" />
+        <img src="https://img.shields.io/github/followers/Prem759-0?style=social" />
       </td>
       <td>
-        <img src="https://img.shields.io/github/stars/mwakidenis?style=social" />
+        <img src="https://img.shields.io/github/stars/Prem759-0?style=social" />
       </td>
       <td>
         <img src="https://awesome.re/badge.svg" />
