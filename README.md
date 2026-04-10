@@ -165,7 +165,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Prem+Gaikwad+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+Web+App+And+clon's+App+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+&+Full Stack Web Developer%F0%9F%92%AA;Empowering+Startups+Across+India+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Prem+Gaikwad+😁+-+Software+Engineer+💻;MERN+Stack+Developer+🚀+%7C+Next.js+Developer+⚡;Building+Web+Apps+and+Clone+Projects+❤️;Dart+%26+Flutter+Enthusiast+✨;Future+CTO+in+the+Making+💪;Empowering+Startups+Across+India+🌍;Curious+Developer+on+a+Mission+🌟" />
 </p>
 
 [![Prem's gitartwork](https://github.com/Prem759-0/gitartwork-prem/blob/main/gitartwork.svg)](https://github.com/Prem759-0)
