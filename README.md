@@ -14,7 +14,7 @@
 <img alt="github-snake" src="./github-snake%20(1).svg" />
 </picture>
 
-# 💫 About Me:<img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+# 💫 About Me:<img height="40" alt="Prem Gaikwad" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 👨‍🎓 Currently I'm Studying 12th <br>⏳ 1.5+ years of experience of makeing full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
 
 
@@ -53,7 +53,39 @@
 ---
 
 
-### 📈 GitHub Activity
+<div align="center">
+
+  <h2>
+    📊 Profile Stats
+    <img
+      height="40"
+      alt="Prem"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+  </h2>
+
+  <table align="center">
+    <tr>
+      <td><b>👀 Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=Prem759-0&style=flat-square" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/followers/Prem759-0?style=social" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Prem759-0?style=social" />
+      </td>
+      <td>
+        <img src="https://awesome.re/badge.svg" />
+      </td>
+    </tr>
+  </table>
 
 <div align="center">
 
@@ -61,7 +93,7 @@
     🖥️ Github Activity
     <img
       height="40"
-      alt="Mwaki Denis"
+      alt="Prem Gaikwad"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
   </h2>
@@ -132,12 +164,12 @@
 
 ---
 
-### ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### ✨ Fun Zone <img height="40" alt="Prem Gaikwad" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </div>
 
-### ✍️ Random Dev Quote💡 <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### ✍️ Random Dev Quote💡 <img height="40" alt="Prem Gaikwad" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
