@@ -88,9 +88,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://githubusercontent.com" alt="Prem's gitartwork" />
-  </a>
-</p>
+[![Prem's gitartwork](gitartwork.svg)](https://github.com/Prem759-0)
+
 
