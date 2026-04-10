@@ -90,6 +90,7 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="gitartwork.svg" alt="Prem's gitartwork" />
+    <img src="https://githubusercontent.com" alt="Prem's gitartwork" />
   </a>
 </p>
+
