@@ -14,15 +14,9 @@
 <img alt="github-snake" src="./github-snake%20(1).svg" />
 </picture>
 
-# 💫 About Me:
+# 💫 About Me:<img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 👨‍🎓 Currently I'm Studying 12th <br>⏳ 1.5+ years of experience of makeing full stack website ⬇️<br>💻 Development <br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 I will like to work with international clients<br>🧠 Fast Error fixeing skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results
 
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)
-[![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
 
 
 
@@ -79,6 +73,15 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Abhiz2411&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
+
+
+---
+
+## 🌐 Connect With Me <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)
+[![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
 
 
 ---
