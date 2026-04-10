@@ -55,20 +55,95 @@
 
 ### 📈 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem759-0&theme=tokyo-night&hide_border=true&area=true" />
+<div align="center">
+
+  <h2>
+    🖥️ Github Activity
+    <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+  </h2>
+
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor"
+      />
+    </a>
+  </div>
+  
+<div align="center">
+
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Prem759-0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Prem759-0&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prem759-0&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prem759-0&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prem759-0&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Prem759-0&theme=tokyonight&hide_border=true" />
-</p>
+</div>
+
+  <div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=Prem759-0&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+  </div>
+
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/Prem759-0"
+    alt="GitHub Contribution Chart"
+  />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem759-0&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="50%">
 
 ---
 
+### ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</div>
 
+### ✍️ Random Dev Quote💡 <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+>  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Abhiz2411&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
@@ -77,12 +152,23 @@
 
 ---
 
-## 🌐 Connect With Me <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## 🌐 Connect With Me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
+<p>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gaikwad-64a417370/)
 [![Email](https://img.shields.io/badge/Email-a70064182%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:a70064182@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209619111051-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919619111051)
 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Prem+Gaikwad+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+India+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;" />
+</p>
+
+[![Prem's gitartwork](https://github.com/Prem759-0/gitartwork-prem/blob/main/gitartwork.svg)](https://github.com/Prem759-0)
 
 ---
 
