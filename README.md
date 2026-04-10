@@ -88,6 +88,5 @@
 </p>
 
 
-[![Prem's gitartwork](https://github.com/Prem759-0/gitartwork-prem/blob/main/gitartwork.svg)](https://github.com/Prem759-0)
 
 
